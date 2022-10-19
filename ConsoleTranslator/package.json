@@ -1,0 +1,15 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "a language translator",
+  "main": "index.js",
+  "author": "Matosoli",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^18.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
