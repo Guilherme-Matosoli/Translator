@@ -14,7 +14,7 @@ Primeiramente clone o projeto para sua máquina:
 
 ```bash
 $ git clone https://github.com/Guilherme-Matosoli/Translator
-$ cd letmeask
+$ cd Translator
 ```
 
 Existem 3 pastas no projeto (APItranslator, ConsoleTranslator e frontend):
